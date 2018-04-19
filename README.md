@@ -15,6 +15,10 @@ Project TicTacToe with THP by Paul Broussolle aka <a href="https://www.youtube.c
 * Re-draw while adding the token (X or 0)
 * Check if win thanks to the winning lines define earlier
 
+## To do list
+* Split the classes in several files
+* Do a gem and a bundle
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/paul00b/tic_tac_toe.
