@@ -2,6 +2,8 @@
 
 Project TicTacToe with THP by Paul Broussolle aka <a href="https://www.youtube.com/watch?v=SSK2SrPU5hs&lc=z12ef5qpowijv1y4t04chvdrisenerehqb0">the minister of mixture</a>
 
+VOTRE ATTENTION SVP : Clique <a href ="https://repl.it/@paul00b/tictacthp">sur ce lien</a> pour lancer mon code sans avoir à tout copier sur ton ordinateur
+
 ## How to use ?
 
 1. Run the ``tic_tac_toe_game.rb`` file to play. Then add the first player, followed but the player 2.
