@@ -1,6 +1,6 @@
 # TicTacToe
 
-Project TicTacToe with THP by Paul Broussolle aka minister of mixture
+Project TicTacToe with THP by Paul Broussolle aka <a hre="https://www.youtube.com/watch?v=SSK2SrPU5hs&lc=z12ef5qpowijv1y4t04chvdrisenerehqb0">the minister of mixture</a>
 
 ## How to use ?
 
